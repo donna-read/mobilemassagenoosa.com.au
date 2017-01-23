@@ -1,0 +1,16 @@
+# Jekyll configuration
+
+name: mobile-massage-noosa
+description: The website of Queensland masseuse Donna Read
+author:
+  name: Mike Causer
+  email: mcauser@gmail.com
+
+url: http://donna-read.github.io/mobile-massage-noosa
+
+exclude: [".ruby-version", "Gemfile", "Gemfile.lock", "README.md"]
+
+sass:
+  style: compressed
+
+encoding: utf-8
